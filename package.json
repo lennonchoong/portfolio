@@ -17,12 +17,15 @@
     "@react-three/drei": "^10.7.4",
     "@react-three/fiber": "^9.3.0",
     "antd": "^6.4.3",
+    "d3-delaunay": "^6.0.6",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "simplex-noise": "^4.0.3",
     "three": "^0.180.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
+    "@types/d3-delaunay": "^6.0.4",
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
     "@types/three": "^0.179.0",
